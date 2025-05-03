@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-automation",
+  "version": "1.0.0",
+  "main": "linkedin_automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
